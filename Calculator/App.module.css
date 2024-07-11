@@ -1,0 +1,13 @@
+body{
+  background: #fff;
+}
+
+.calculator{
+  /* border: 1px solid rgb(226, 154, 21); */
+  /* width: 200px; */
+  width: 260px;
+  border-radius: 10px;
+  margin: 140px auto ;
+  background: rgb(24, 4, 105);
+  height: 340px;
+}
