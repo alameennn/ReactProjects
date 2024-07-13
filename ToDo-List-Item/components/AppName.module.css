@@ -1,0 +1,17 @@
+.todoHeading{
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+  letter-spacing: 23px;
+  background: hsl(151, 83%, 41%);
+  color: #fff;
+  width: 90%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom-left-radius: 30px;
+  border-top-left-radius: 30px;
+
+}
